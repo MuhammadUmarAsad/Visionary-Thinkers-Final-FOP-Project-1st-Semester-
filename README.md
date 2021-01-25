@@ -158,7 +158,7 @@ bottom left corner of the screen.
 to a window which will give him option to play. User needs to click on play
 to start the game.
 
-![](Pics%20for%20README.md/Screenshot 2021-01-25 204048.png)
+![](Pics%20for%20README.md/Screenshot%202021-01-25%20204048.png)
 
 2. Snake game has options to control the movement of snake via control
 keys. Its simple snake game in which a fruit appears on screen and snake

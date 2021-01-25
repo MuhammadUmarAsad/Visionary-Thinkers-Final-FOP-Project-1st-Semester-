@@ -268,4 +268,5 @@ menu.
 
 4. Customized Graphics (background and buttons)
 
-5. Learn along fun
+5. Learn and have fun with the great interactive gaming environment
+

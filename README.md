@@ -1,4 +1,4 @@
-# Visionary-Thinkers-Final-FOP-Project-1st-Semester-
+# Visionary Thinkers Final FOP Project 1st Semester 
 #### This repository contains our Mini game project made exclusively in Python.
 ________________________________________________________________
 ## MINI GAME PLATFORM (Game Document)
@@ -112,23 +112,35 @@ access
 Game Design and working process:
 
 1. First of all you will unzip MINI-GAME-PLATFORM folder.
+
 2. Click on the RUN.py file to start the program.
+
 3. Click on run to execute it.
+
 4. Firstly login window will appear.It will automatically direct to signup
 window if there is no user in the file. It will have an interface shown
 below:
+
 ![](Pics%20for%20README.md/sign_up_1.png)
+
 5. User will either choose his/her name from the list or click on sign
 up if he/she is a new player:
+
 ![](Pics%20for%20README.md/login.png)
+
 6. Ligin button will appear when user will select a user from the list.
+
 7. For sign up : user will enter his name. Repetition is not allowed.
 System checks if the user is already registered it shows a message that
 you are already registered.
+
 ![](Pics%20for%20README.md/Duplicate_name_signup_error.png)
+
 8. After proper login (selection of plyer who wants to play) program will
 refer to the menu where all the games will be present.
+
 ![](Pics%20for%20README.md/MENU_1.png)
+
 9.User will have open choice to select any of the game he wants to play.
 When a game will be selected” the menu will be destroyed to overcome the
 lags. Soon as the user wants to quit he will be redirected to the menu
@@ -137,6 +149,7 @@ again.
 10.Menu will be present to the user for selection of the games until
 he decides to quit .For quitting user will press on the button located in
 bottom left corner of the screen.
+
 
 ### Further details for each game are given separately:
 
@@ -170,7 +183,6 @@ quiz,exit to menu.
 
 ![](Pics%20for%20README.md/IQ_Quiz_1.png)
 
-
 2. Quiz contains 10 questions that will be generated randomly from the
 text file .Each question will have 4 options. User will have to select any
 option. There is no negative marking in the quiz. On correct answer score
@@ -186,6 +198,7 @@ as command pressed by the user.
 
 
 #### Tic Tac Toe:
+
 1.Tic tac toe allows user to play with any registered player. User will
 have an option to select the player he wants to play with. It will not allow
 the user to play the game unless atleast 1 other registered player is not
@@ -196,17 +209,16 @@ player name along the sign allotted to him/her.
 
 ![](Pics%20for%20README.md/TIC_TAC_TOE_2.png)
 
-
 3. Program has three options .Either player one wins or player 2 wins
 or game is draw.
 
 ![](Pics%20for%20README.md/TIC_TAC_TOE_3.png)
 
-
 4. The program shows appropriate options to the user incase of winning
 of the player or draw.
 
 #### Shape and colour:
+
 1. This game allows user to print shapes in different colours.
 
 2. Shapes available are 10 and 15 colour options available are
@@ -231,6 +243,8 @@ to be guessed.
 to provide ease to the user.
 
 ![](Pics%20for%20README.md/GUESS_6.png)
+
+
 ![](Pics%20for%20README.md/GUESS_7.png)
 
 
@@ -246,10 +260,12 @@ menu.
 ### Salient features included in the game:
 **These features are included in each Mini Game :**
 
-1. Return to menu , User can return to menu for further selection of games
-after completion of one game.
+1. Return to menu , User can return to menu for further selection of games after completion of one game.
 
 2. User can exit at any time from any game.
+
 3. Music is added in each game.
+
 4. Customized Graphics (background and buttons)
+
 5. Learn along fun

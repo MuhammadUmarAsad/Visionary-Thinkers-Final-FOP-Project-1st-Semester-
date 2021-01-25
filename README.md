@@ -1,4 +1,4 @@
-# Visionary Thinkers Final FOP Project 1st Semester 
+# Visionary Thinkers FOP Project 1st Semester 
 #### This repository contains our Mini game project made exclusively in Python.
 ________________________________________________________________
 ## MINI GAME PLATFORM (Game Document)

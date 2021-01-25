@@ -104,8 +104,7 @@ programming language.
 
 ### General description:
 Detailed description and features of each game used are written in the game
-document.Also Source code along .exe files is given in the folder for open
-access
+document.Also Source code along all the .py files is given in the folder for open access
 
 ### Game document:
 

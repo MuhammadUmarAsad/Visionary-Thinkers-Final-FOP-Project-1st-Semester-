@@ -57,8 +57,8 @@ prompt :
 All other libraries are already present while you install the python.In
 the program they are already imported.
 ### Operating instructions:
-All the **`graphic files`** used in the platform are already attached in the zip
-folder.Just unzip it and launch the program by opening the **`RUN.py`** file.
+All the **`graphic files`** used in the platform are already attached in the the **`VISIONARY THINKERS FINAL PROJECT FOP`**
+folder.Just download it and launch the program by opening the **`RUN.py`** file.
 Use Python editor to open the file and run it.your program will be started and you shall have access to the project files.
 
 ### Copyright information:

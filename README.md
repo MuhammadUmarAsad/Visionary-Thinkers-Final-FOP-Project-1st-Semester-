@@ -1,7 +1,7 @@
 # Visionary Thinkers FOP Project 1st Semester 
 #### This repository contains our Mini game platform project made exclusively in Python.
 ________________________________________________________________
-## MINI GAME PLATFORM (Game Document)
+## MINI GAME PLATFORM (Game Document+technical Architecture)
 
 ________________________________________________________________
 ## **Project by: Visionary Thinkers**
@@ -59,6 +59,7 @@ the program they are already imported.
 ### Operating instructions:
 All the **`graphic files`** used in the platform are already attached in the zip
 folder.Just unzip it and launch the program by opening the **`RUN.py`** file.
+Use Python editor to open the file and run it.your program will be started and you shall have access to the project files.
 
 ### Copyright information:
 All the music and graphic files are free.
@@ -88,7 +89,7 @@ compiler** and it will hopefully run fine.
 
 ### Features:
 The platform is made completly in python and does not use any other
-programming language.
+programming language.Other salient features are given in the game document.
 
 ## Members:
 **Developed by : Visionary Thinkers**
@@ -106,7 +107,7 @@ programming language.
 Detailed description and features of each game used are written in the game
 document.Also Source code along all the .py files is given in the folder for open access
 
-### Game document:
+### Game document(Technical architect):
 
 Game Design and working process:
 

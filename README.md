@@ -274,3 +274,4 @@ menu.
 Architecture completely describes the format of game and how we have connected the modules with each other.By using flow diagram technique,
 architecture details are given in the chart attached below:
 
+![](Pics%20for%20README.md/Architecture_for_project.jpeg)

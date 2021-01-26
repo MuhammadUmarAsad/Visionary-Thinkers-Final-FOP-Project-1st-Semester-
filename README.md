@@ -270,4 +270,5 @@ menu.
 5. Learn and have fun with the great interactive gaming environment
 
 ### Architecture
-![]()
+![](Pics%20for%20README.md/Architecture.jpg)
+

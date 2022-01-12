@@ -1,3 +1,3 @@
+{'name': 'JOTARO', 'iqquiz': 0, 'snake': 0}
 {'name': 'JOTARO2', 'iqquiz': 10, 'snake': 18}
-{'name': 'JOTARO3', 'iqquiz': 10, 'snake': 25}
-{'name': 'JOTARO', 'iqquiz': 10, 'snake': 0}
+{'name': 'JOTARO3', 'iqquiz': 10, 'snake': 0}
